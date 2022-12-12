@@ -1,21 +1,21 @@
 {
   "name": "Forum Yella Theme",
-  "about_url": "https://github.com/readyresearcherone/theme",
-  "license_url": "https://github.com/readyresearcherone/theme/blob/main/LICENSE.txt",
+  "about_url": "https://meta.discourse.org/t/material-design-stock-theme/47142",
+  "license_url": "https://github.com/discourse/material-design-stock-theme/blob/master/LICENSE.txt",
   "color_schemes": {
-    "Yella Light": {
+    "Material Teal/Amber": {
       "primary": "212121",
       "secondary": "fafafa",
       "tertiary": "ffa000",
       "quaternary": "00796b",
-      "header_background": "21262d",
-      "header_primary": "edcc08",
+      "header_background": "ccc",
+      "header_primary": "ffffff",
       "highlight": "ffff8d",
       "danger": "ff5722",
       "success": "4caf50",
       "love": "fa6c8d"
     },
-    "Yella Dark": {
+    "Material Dark": {
       "primary": "fafafa",
       "secondary": "212121",
       "tertiary": "00bcd4",
