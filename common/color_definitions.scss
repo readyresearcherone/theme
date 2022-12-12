@@ -1,13 +1,4 @@
-$primary: #212121 !default;
-$secondary: #fafafa !default;
-$tertiary: #ffa000 !default;
-$quaternary: #00796b !default;
-$header_background: #ff0000 !important !default ;
-$header_primary: #ffffff !default;
-$highlight: #ffff8d !default;
-$danger: #ff5722 !default;
-$success: #4caf50 !default;
-$love: #fa6c8d !default;
+
 $public_image_path: "https://sea1.discourse-cdn.com/themecreator/images";
 @import "common/foundation/variables";
 @import "common/foundation/mixins"; // This file maps all SCSS color variables to CSS custom properties.
